@@ -69,6 +69,23 @@ a:hover {
   * {
     font-size: 14px !important; } }
 /**
+ * Homepage css (index.html)
+ */
+.fooleunbin {
+  text-align: center;
+}
+
+.welcome {
+  text-align: center;
+  font-size: 60px;
+}
+
+.totheworld {
+  text-align: center;
+  font-size: 30px;
+  display: block;
+}
+/**
  * Layout
  */
 .container {
